@@ -1,0 +1,2 @@
+Room No:		Room Size		Air Conditioner		Attach Bath		Room Status		Empty/Full
+	1		double		YES				YES			OPEN			EMPTY
